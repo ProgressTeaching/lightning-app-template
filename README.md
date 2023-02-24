@@ -2,18 +2,6 @@
 
 ## Getting Started
 
-First, create an environment file:
-
-```bash
-cp .env.example .env
-```
-
-Install packages
-
-```bash
-npm install
-```
-
 ### Setting up auth0
 
 1. Register an account on https://auth0.com/signup
@@ -23,6 +11,20 @@ npm install
 
 ```
 http://localhost:3000/api/auth/callback
+```
+
+### Install packages and run application
+
+First, create an environment file:
+
+```bash
+cp .env.local.example .env.local
+```
+
+Install packages
+
+```bash
+npm install
 ```
 
 That it.
