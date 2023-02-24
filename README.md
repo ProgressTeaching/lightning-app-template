@@ -14,6 +14,25 @@ Install packages
 npm install
 ```
 
+### Setting up auth0
+
+1. Register an account on https://auth0.com/signup
+2. Click Create Application (choose regular web application)
+3. Once application has been created - use the application Domain, Client ID and Client Secret to populate the env file
+4. Add the following to `Allowed Callback URLs`
+
+```
+http://localhost:3000/api/auth/callback
+```
+
+That it.
+
+Run:
+
+```
+npm run dev
+```
+
 ## CLI
 
 ### Running tests
