@@ -14,7 +14,7 @@ Install packages
 npm install
 ```
 
-### Setting up auth0
+### Setting up auth0
 
 1. Register an account on https://auth0.com/signup
 2. Click Create Application (choose regular web application)
