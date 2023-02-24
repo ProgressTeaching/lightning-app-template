@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-### Setting up auth0
+### Set up a personal Auth0 account
 
 1. Register an account on https://auth0.com/signup
 2. Click Create Application (choose regular web application)
@@ -13,7 +13,7 @@
 http://localhost:3000/api/auth/callback
 ```
 
-### Install packages and run application
+### Install packages and run application
 
 First, create an environment file:
 
