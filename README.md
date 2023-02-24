@@ -13,6 +13,8 @@
 http://localhost:3000/api/auth/callback
 ```
 
+If you want to read the official Auth0 docs, visit this link: https://auth0.com/docs/quickstart/webapp/nextjs/01-login
+
 ### Install packages and run application
 
 First, create an environment file:
