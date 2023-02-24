@@ -6,7 +6,7 @@
 
 1. Register an account on https://auth0.com/signup
 2. Click Create Application (choose regular web application)
-3. Once application has been created - use the application Domain, Client ID and Client Secret to populate the env file
+3. Once application has been created - use the application Domain, Client ID and Client Secret to populate the `.env.local` file in the next step
 4. Add the following to `Allowed Callback URLs`
 
 ```
