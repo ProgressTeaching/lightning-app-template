@@ -1,10 +1,20 @@
 # ProgressTeaching App
 
+## How to get set up / follow this doc
+
+1. Read the project specs first - this will tell you what you need to deliver
+2. Look through the Mock API Documentation and map the appropiate API to your design. In most cases, the project spec should have this as part of the specification, however, this may not always happen.
+3. Set up a Auth0 account (instructions below)
+4. Set up and start the application
+
 ## ProgressTeaching Mock APIs Docs
+
+The Mock API documentation will give you example payloads / endpoints for all of the APIs that we have available on our platform.
+You should use this to build the application specified. Any missing APIs, please notify your project lead.
 
 https://documenter.getpostman.com/view/26047329/2s93CPprYo
 
-## Getting Started
+## Setting up your local environment
 
 ### Set up a personal Auth0 account
 
