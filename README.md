@@ -7,6 +7,10 @@
 3. Set up a Auth0 account (instructions below)
 4. Set up and start the application
 
+```
+Please note: Please keep all changes in a private github repo.
+```
+
 ## ProgressTeaching Mock APIs Docs
 
 The Mock API documentation will give you example payloads / endpoints for all of the APIs that we have available on our platform.
